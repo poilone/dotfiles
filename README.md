@@ -1,7 +1,7 @@
 # dotfiles
 Dotfile for linux or other stuff
 
-Needed software  
+## Needed software  
 Font : DejaVu nerd  
 Terminal : kitty  
 WM : i3  
